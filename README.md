@@ -5,9 +5,7 @@ Greetings, I'm Eduardo Akiyama!
 
 Tools and Technology
 
-Git hub <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
-
-Java Script<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>
+Git hub <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> Java Script <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>
 
 
 
